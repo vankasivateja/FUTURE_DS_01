@@ -1,0 +1,501 @@
+Order_ID,Region,Category,Product,Sales,Profit,Quantity
+1001,East,Office Supplies,Notebook,2020,16,2
+1002,West,Electronics,Monitor,247,142,6
+1003,North,Electronics,Laptop,2676,566,12
+1004,East,Clothing,Laptop,1252,835,5
+1005,East,Office Supplies,Laptop,2085,770,13
+1006,West,Electronics,Phone,527,1064,10
+1007,North,Clothing,Desk,1304,544,9
+1008,North,Office Supplies,Phone,972,435,12
+1009,East,Clothing,Desk,469,1427,5
+1010,South,Furniture,Table,2254,681,2
+1011,East,Electronics,Phone,2647,372,5
+1012,East,Furniture,Phone,1170,1470,12
+1013,East,Office Supplies,Notebook,3118,91,4
+1014,East,Furniture,Printer,1000,365,11
+1015,West,Furniture,Phone,2386,1291,7
+1016,North,Office Supplies,Notebook,2293,598,6
+1017,West,Clothing,Chair,2695,304,14
+1018,West,Furniture,Printer,1907,1257,2
+1019,West,Clothing,Table,4662,1079,12
+1020,East,Furniture,Phone,1915,1146,11
+1021,South,Clothing,Monitor,2962,1266,11
+1022,North,Office Supplies,Laptop,2903,26,13
+1023,South,Furniture,Chair,4960,369,5
+1024,West,Office Supplies,Chair,3278,1256,7
+1025,West,Furniture,Table,3769,875,11
+1026,South,Office Supplies,Notebook,3278,709,7
+1027,South,Office Supplies,Chair,2421,457,5
+1028,South,Furniture,Printer,2941,865,12
+1029,West,Furniture,Phone,3806,374,9
+1030,West,Furniture,Phone,4275,684,4
+1031,North,Electronics,Monitor,144,1017,11
+1032,North,Clothing,Table,2724,1359,3
+1033,West,Electronics,Laptop,2005,476,4
+1034,South,Electronics,Notebook,843,423,5
+1035,South,Office Supplies,Laptop,1884,1488,13
+1036,North,Furniture,Chair,2166,595,6
+1037,West,Clothing,Table,4156,1266,3
+1038,North,Office Supplies,Monitor,3375,1257,2
+1039,North,Electronics,Laptop,2969,1003,14
+1040,East,Furniture,Printer,2647,1445,13
+1041,East,Office Supplies,Phone,3255,581,4
+1042,East,Furniture,Chair,4857,344,5
+1043,South,Office Supplies,Monitor,864,1255,4
+1044,West,Furniture,Laptop,395,46,14
+1045,West,Electronics,Notebook,2399,998,11
+1046,West,Clothing,Printer,412,287,13
+1047,West,Electronics,Printer,2493,1229,12
+1048,East,Clothing,Laptop,2315,925,3
+1049,South,Furniture,Phone,2238,493,8
+1050,South,Office Supplies,Laptop,3055,1275,10
+1051,East,Electronics,Chair,3331,1357,4
+1052,South,Clothing,Laptop,1034,740,14
+1053,East,Electronics,Printer,1689,201,2
+1054,West,Clothing,Monitor,877,1050,2
+1055,East,Electronics,Laptop,2780,533,1
+1056,West,Clothing,Phone,3581,927,13
+1057,West,Clothing,Table,4501,410,4
+1058,North,Furniture,Monitor,2985,895,10
+1059,East,Clothing,Notebook,3926,714,9
+1060,North,Furniture,Desk,176,31,14
+1061,East,Clothing,Laptop,3227,483,11
+1062,East,Office Supplies,Phone,3106,1153,7
+1063,North,Office Supplies,Monitor,653,219,12
+1064,North,Office Supplies,Phone,3499,315,10
+1065,East,Clothing,Notebook,4196,1303,7
+1066,South,Furniture,Printer,3583,713,13
+1067,West,Furniture,Phone,3417,696,7
+1068,North,Clothing,Monitor,3418,294,8
+1069,West,Office Supplies,Phone,3847,725,1
+1070,South,Office Supplies,Phone,1842,772,10
+1071,South,Furniture,Phone,2911,1260,13
+1072,South,Office Supplies,Chair,3526,957,10
+1073,North,Electronics,Chair,3467,390,8
+1074,South,Furniture,Printer,1695,469,4
+1075,North,Office Supplies,Laptop,1255,1040,4
+1076,South,Furniture,Phone,3080,38,4
+1077,West,Electronics,Notebook,2922,916,6
+1078,West,Furniture,Laptop,3122,1066,7
+1079,East,Furniture,Notebook,1904,888,6
+1080,West,Furniture,Laptop,4071,88,1
+1081,East,Furniture,Printer,4712,956,12
+1082,West,Electronics,Phone,2758,468,8
+1083,North,Clothing,Phone,3552,579,13
+1084,West,Furniture,Desk,1382,1463,10
+1085,East,Furniture,Notebook,251,747,11
+1086,East,Office Supplies,Laptop,3557,1318,13
+1087,South,Furniture,Laptop,4262,525,7
+1088,North,Office Supplies,Table,624,1132,6
+1089,West,Clothing,Table,586,406,6
+1090,South,Electronics,Chair,1675,48,5
+1091,West,Electronics,Desk,2172,1304,6
+1092,West,Clothing,Monitor,435,896,12
+1093,South,Electronics,Table,3331,806,9
+1094,South,Clothing,Monitor,524,166,10
+1095,South,Clothing,Chair,467,1108,9
+1096,South,Clothing,Chair,3650,893,10
+1097,South,Electronics,Chair,1004,1163,8
+1098,West,Office Supplies,Notebook,4908,983,10
+1099,South,Clothing,Notebook,1255,1117,9
+1100,North,Furniture,Printer,4809,1055,13
+1101,East,Electronics,Printer,4170,1492,10
+1102,South,Clothing,Chair,2040,858,8
+1103,South,Clothing,Desk,4855,1415,8
+1104,West,Furniture,Laptop,3622,757,1
+1105,South,Office Supplies,Notebook,4430,1473,10
+1106,South,Office Supplies,Desk,4208,998,11
+1107,South,Office Supplies,Phone,4807,30,5
+1108,West,Clothing,Notebook,2763,312,4
+1109,South,Clothing,Notebook,2253,878,2
+1110,East,Clothing,Printer,3170,93,8
+1111,West,Electronics,Laptop,1016,1486,3
+1112,East,Furniture,Laptop,4994,1420,4
+1113,West,Clothing,Table,3482,1290,12
+1114,South,Furniture,Monitor,738,579,7
+1115,East,Furniture,Monitor,4293,943,10
+1116,West,Office Supplies,Monitor,3751,1195,9
+1117,North,Electronics,Monitor,391,1196,2
+1118,South,Clothing,Phone,1774,1018,3
+1119,West,Office Supplies,Phone,4472,802,4
+1120,North,Office Supplies,Notebook,1842,801,10
+1121,West,Clothing,Chair,1809,1304,1
+1122,North,Furniture,Printer,3262,501,7
+1123,South,Office Supplies,Printer,1039,217,2
+1124,East,Furniture,Monitor,2312,1093,5
+1125,North,Electronics,Notebook,2532,439,1
+1126,West,Furniture,Table,1001,994,3
+1127,South,Electronics,Desk,772,1342,12
+1128,North,Furniture,Chair,3439,529,2
+1129,West,Office Supplies,Notebook,2129,600,1
+1130,West,Office Supplies,Chair,2767,1060,7
+1131,West,Electronics,Chair,2382,208,5
+1132,North,Clothing,Chair,3426,396,1
+1133,North,Electronics,Notebook,4574,358,6
+1134,North,Electronics,Monitor,1550,969,5
+1135,East,Furniture,Printer,335,702,3
+1136,North,Furniture,Printer,3545,387,12
+1137,North,Electronics,Monitor,2115,908,7
+1138,North,Office Supplies,Chair,818,925,11
+1139,East,Furniture,Desk,3107,536,10
+1140,North,Clothing,Laptop,4339,1186,9
+1141,West,Furniture,Notebook,2211,743,14
+1142,North,Furniture,Laptop,3343,215,13
+1143,West,Clothing,Table,996,464,13
+1144,West,Electronics,Monitor,4976,1306,9
+1145,West,Clothing,Desk,3385,1269,14
+1146,East,Electronics,Notebook,4200,530,9
+1147,East,Electronics,Monitor,4945,1026,2
+1148,East,Electronics,Chair,4923,965,3
+1149,North,Clothing,Printer,1531,735,7
+1150,West,Electronics,Laptop,1951,1023,5
+1151,East,Office Supplies,Phone,3501,510,2
+1152,East,Clothing,Phone,4114,126,3
+1153,North,Office Supplies,Desk,104,395,10
+1154,East,Electronics,Chair,1873,1377,6
+1155,North,Furniture,Table,3512,593,13
+1156,South,Electronics,Laptop,3129,404,7
+1157,East,Office Supplies,Chair,882,1097,9
+1158,South,Office Supplies,Laptop,4458,730,1
+1159,North,Clothing,Desk,2856,81,11
+1160,West,Furniture,Desk,2540,283,7
+1161,East,Clothing,Table,377,1353,8
+1162,North,Office Supplies,Phone,3360,347,12
+1163,West,Electronics,Chair,3350,1399,14
+1164,West,Furniture,Notebook,3725,616,3
+1165,South,Electronics,Phone,3104,175,4
+1166,North,Electronics,Chair,2193,20,10
+1167,West,Furniture,Phone,1361,1334,6
+1168,East,Clothing,Notebook,3241,738,10
+1169,East,Electronics,Printer,2588,810,7
+1170,South,Office Supplies,Printer,4033,111,13
+1171,West,Electronics,Table,4597,1458,14
+1172,North,Furniture,Printer,214,1425,4
+1173,East,Furniture,Printer,4327,788,8
+1174,West,Furniture,Monitor,872,223,5
+1175,West,Clothing,Laptop,993,1121,1
+1176,South,Electronics,Monitor,4475,410,4
+1177,East,Clothing,Monitor,824,597,3
+1178,East,Clothing,Table,2248,898,9
+1179,North,Furniture,Monitor,3206,1079,8
+1180,East,Furniture,Printer,4292,1496,1
+1181,North,Clothing,Notebook,3745,601,11
+1182,East,Electronics,Table,3502,1343,6
+1183,South,Office Supplies,Table,964,1119,9
+1184,East,Clothing,Desk,1358,101,7
+1185,North,Electronics,Table,4227,682,4
+1186,North,Furniture,Desk,563,723,13
+1187,South,Furniture,Table,1970,945,1
+1188,East,Electronics,Laptop,3644,251,12
+1189,East,Office Supplies,Printer,4891,11,2
+1190,South,Furniture,Table,1459,234,12
+1191,East,Furniture,Printer,4852,810,5
+1192,East,Furniture,Printer,4616,598,12
+1193,North,Electronics,Phone,3240,125,11
+1194,East,Clothing,Table,4541,927,5
+1195,East,Furniture,Chair,1605,1136,8
+1196,South,Clothing,Phone,854,203,6
+1197,South,Office Supplies,Chair,1329,1199,8
+1198,West,Furniture,Printer,3627,880,2
+1199,North,Furniture,Printer,2951,99,3
+1200,East,Office Supplies,Phone,1437,131,6
+1201,East,Furniture,Phone,4738,152,12
+1202,West,Clothing,Chair,2811,1003,13
+1203,East,Electronics,Desk,2729,115,10
+1204,North,Clothing,Chair,2156,896,3
+1205,West,Electronics,Phone,4273,437,6
+1206,North,Electronics,Notebook,4881,1338,6
+1207,West,Clothing,Phone,2818,326,2
+1208,West,Clothing,Notebook,4003,644,7
+1209,South,Clothing,Laptop,3236,18,12
+1210,North,Clothing,Phone,3330,783,2
+1211,East,Office Supplies,Laptop,2623,1106,6
+1212,East,Furniture,Desk,4666,1392,1
+1213,North,Electronics,Chair,2649,232,3
+1214,East,Clothing,Notebook,4083,1449,2
+1215,East,Clothing,Chair,286,562,7
+1216,North,Clothing,Laptop,1354,1403,14
+1217,West,Office Supplies,Notebook,3480,725,4
+1218,North,Clothing,Chair,1351,1297,8
+1219,West,Clothing,Phone,2591,1351,6
+1220,East,Clothing,Printer,2101,1117,12
+1221,East,Furniture,Laptop,491,1351,10
+1222,East,Office Supplies,Chair,2126,120,4
+1223,South,Clothing,Laptop,3230,260,5
+1224,West,Electronics,Monitor,2707,392,13
+1225,South,Electronics,Laptop,3848,16,13
+1226,South,Electronics,Notebook,854,468,9
+1227,North,Office Supplies,Monitor,124,1117,7
+1228,South,Office Supplies,Table,2225,217,10
+1229,North,Electronics,Notebook,3974,909,14
+1230,North,Clothing,Printer,2139,1423,14
+1231,South,Office Supplies,Monitor,90,1347,9
+1232,West,Electronics,Table,2131,31,7
+1233,West,Electronics,Phone,4733,419,12
+1234,West,Clothing,Laptop,1672,904,1
+1235,West,Furniture,Chair,391,524,12
+1236,West,Office Supplies,Desk,4102,1160,8
+1237,South,Clothing,Laptop,2124,818,4
+1238,South,Electronics,Table,695,883,3
+1239,East,Electronics,Laptop,4876,23,14
+1240,West,Clothing,Printer,4313,980,13
+1241,South,Office Supplies,Phone,659,987,7
+1242,East,Furniture,Desk,504,1023,12
+1243,West,Furniture,Monitor,3003,1045,3
+1244,North,Electronics,Monitor,1758,96,8
+1245,East,Office Supplies,Monitor,3522,918,6
+1246,South,Furniture,Table,3019,1334,5
+1247,North,Office Supplies,Notebook,3078,1276,4
+1248,North,Office Supplies,Notebook,4847,131,8
+1249,North,Electronics,Chair,2731,1180,8
+1250,East,Furniture,Desk,3679,759,12
+1251,South,Clothing,Monitor,4275,1389,1
+1252,North,Electronics,Notebook,3117,694,9
+1253,West,Furniture,Table,1436,318,14
+1254,North,Furniture,Chair,3826,704,5
+1255,North,Furniture,Phone,2916,297,4
+1256,East,Furniture,Chair,4838,316,6
+1257,East,Furniture,Notebook,3413,923,6
+1258,South,Office Supplies,Printer,4939,671,2
+1259,West,Electronics,Table,4174,558,8
+1260,East,Office Supplies,Printer,198,1385,7
+1261,North,Clothing,Monitor,3900,321,1
+1262,South,Furniture,Printer,2108,882,5
+1263,North,Electronics,Monitor,1186,1092,12
+1264,North,Furniture,Monitor,236,933,6
+1265,East,Electronics,Notebook,2904,764,4
+1266,South,Office Supplies,Printer,1300,44,2
+1267,West,Electronics,Monitor,1383,454,13
+1268,West,Clothing,Desk,4243,102,14
+1269,East,Clothing,Phone,4200,1240,4
+1270,East,Electronics,Chair,2761,362,1
+1271,South,Electronics,Chair,4903,912,7
+1272,West,Electronics,Notebook,4551,1365,2
+1273,West,Electronics,Printer,1835,871,13
+1274,West,Clothing,Printer,800,168,2
+1275,North,Furniture,Monitor,1812,966,9
+1276,West,Electronics,Table,3970,33,5
+1277,North,Electronics,Laptop,4510,413,2
+1278,South,Clothing,Monitor,531,814,11
+1279,North,Clothing,Phone,203,525,9
+1280,South,Office Supplies,Desk,1574,741,9
+1281,West,Electronics,Chair,2170,1397,1
+1282,West,Office Supplies,Monitor,2393,1415,11
+1283,South,Clothing,Laptop,1290,541,3
+1284,East,Clothing,Laptop,110,965,4
+1285,South,Furniture,Monitor,988,161,14
+1286,East,Electronics,Notebook,1689,956,7
+1287,North,Office Supplies,Chair,4170,617,10
+1288,North,Clothing,Notebook,4276,429,4
+1289,North,Clothing,Desk,3619,1283,2
+1290,West,Office Supplies,Laptop,1302,1150,7
+1291,North,Furniture,Laptop,4253,875,6
+1292,East,Clothing,Phone,221,587,3
+1293,North,Electronics,Desk,1508,344,6
+1294,South,Clothing,Laptop,3599,1451,11
+1295,South,Electronics,Desk,4247,941,6
+1296,West,Office Supplies,Chair,2372,304,12
+1297,South,Electronics,Printer,1686,764,5
+1298,East,Office Supplies,Laptop,3165,1404,4
+1299,North,Electronics,Phone,4140,195,10
+1300,West,Office Supplies,Chair,3054,1279,12
+1301,North,Electronics,Monitor,379,646,1
+1302,North,Furniture,Desk,3690,1301,10
+1303,East,Electronics,Monitor,3944,1270,6
+1304,South,Electronics,Notebook,4157,539,2
+1305,South,Furniture,Chair,1391,30,13
+1306,North,Clothing,Monitor,3713,920,3
+1307,West,Clothing,Table,265,876,14
+1308,South,Electronics,Table,388,803,8
+1309,West,Furniture,Laptop,4112,109,10
+1310,South,Electronics,Desk,2758,761,14
+1311,West,Office Supplies,Printer,3202,487,14
+1312,East,Office Supplies,Chair,1800,1331,6
+1313,West,Electronics,Laptop,2471,949,3
+1314,East,Clothing,Phone,759,535,7
+1315,East,Clothing,Notebook,3776,343,4
+1316,West,Electronics,Desk,3692,11,14
+1317,East,Electronics,Chair,4043,384,9
+1318,North,Office Supplies,Table,538,302,5
+1319,East,Clothing,Chair,96,846,3
+1320,South,Electronics,Printer,3409,1014,2
+1321,West,Office Supplies,Table,4923,562,11
+1322,North,Clothing,Printer,4856,327,2
+1323,West,Furniture,Phone,450,390,3
+1324,South,Office Supplies,Notebook,4040,23,2
+1325,South,Clothing,Phone,3207,513,14
+1326,South,Clothing,Laptop,4395,240,4
+1327,East,Office Supplies,Laptop,440,1117,2
+1328,East,Furniture,Phone,3903,139,10
+1329,West,Office Supplies,Notebook,4480,847,9
+1330,West,Clothing,Phone,678,1178,2
+1331,North,Electronics,Notebook,4282,900,9
+1332,North,Electronics,Notebook,2980,37,13
+1333,West,Office Supplies,Monitor,1571,75,6
+1334,East,Clothing,Table,876,1196,1
+1335,South,Electronics,Desk,4872,1262,4
+1336,West,Clothing,Notebook,1550,270,14
+1337,North,Office Supplies,Printer,3344,1482,1
+1338,East,Electronics,Notebook,2469,1457,14
+1339,West,Clothing,Notebook,984,469,6
+1340,West,Electronics,Notebook,3092,310,14
+1341,East,Office Supplies,Monitor,4547,928,13
+1342,West,Clothing,Table,1516,1336,4
+1343,East,Electronics,Monitor,3611,296,3
+1344,South,Office Supplies,Laptop,664,1428,3
+1345,East,Electronics,Monitor,1232,1043,9
+1346,East,Electronics,Printer,3273,639,6
+1347,East,Furniture,Printer,2717,279,9
+1348,West,Furniture,Monitor,180,601,13
+1349,West,Office Supplies,Table,3033,853,5
+1350,East,Furniture,Phone,4328,871,2
+1351,West,Office Supplies,Desk,4509,1394,8
+1352,North,Furniture,Table,88,1290,5
+1353,North,Electronics,Monitor,4009,142,2
+1354,West,Office Supplies,Notebook,3637,1309,4
+1355,West,Office Supplies,Chair,970,981,9
+1356,East,Electronics,Desk,2819,522,4
+1357,South,Office Supplies,Desk,4161,322,13
+1358,West,Office Supplies,Printer,542,585,12
+1359,North,Furniture,Desk,1181,895,12
+1360,East,Office Supplies,Monitor,3571,1317,12
+1361,West,Clothing,Notebook,360,1154,13
+1362,North,Electronics,Notebook,788,1140,14
+1363,North,Furniture,Laptop,3291,696,4
+1364,South,Furniture,Notebook,595,1237,2
+1365,East,Clothing,Table,2511,174,13
+1366,East,Electronics,Notebook,4396,314,12
+1367,South,Electronics,Printer,4904,165,6
+1368,South,Furniture,Notebook,1854,1400,13
+1369,East,Office Supplies,Laptop,3262,629,11
+1370,East,Furniture,Chair,3860,1284,14
+1371,West,Electronics,Monitor,863,966,2
+1372,West,Clothing,Printer,4174,343,12
+1373,South,Furniture,Table,2082,978,7
+1374,West,Electronics,Chair,4622,520,3
+1375,North,Furniture,Printer,4463,1326,3
+1376,West,Office Supplies,Phone,294,1053,5
+1377,West,Furniture,Desk,4893,291,3
+1378,North,Furniture,Phone,4842,806,2
+1379,South,Electronics,Notebook,321,1034,10
+1380,North,Electronics,Chair,3561,128,9
+1381,West,Electronics,Notebook,1821,1068,2
+1382,South,Furniture,Desk,1312,207,14
+1383,West,Office Supplies,Printer,2474,494,11
+1384,North,Clothing,Desk,4411,1092,2
+1385,North,Clothing,Laptop,970,846,13
+1386,West,Electronics,Desk,3480,1194,8
+1387,East,Electronics,Laptop,4485,1018,9
+1388,East,Furniture,Desk,4534,700,7
+1389,North,Clothing,Monitor,2674,1239,3
+1390,North,Electronics,Laptop,3810,1045,9
+1391,East,Office Supplies,Chair,2100,499,3
+1392,East,Office Supplies,Notebook,3550,285,5
+1393,West,Electronics,Table,1215,702,9
+1394,West,Electronics,Notebook,425,251,12
+1395,East,Clothing,Phone,2083,1249,14
+1396,West,Clothing,Notebook,195,1284,14
+1397,West,Furniture,Printer,4438,135,3
+1398,South,Clothing,Monitor,481,226,7
+1399,West,Office Supplies,Desk,754,1339,12
+1400,North,Office Supplies,Phone,2682,1218,1
+1401,West,Electronics,Printer,4544,1072,4
+1402,West,Clothing,Printer,1013,1256,4
+1403,East,Furniture,Laptop,2284,1217,7
+1404,North,Office Supplies,Notebook,2091,504,8
+1405,West,Office Supplies,Chair,1878,436,1
+1406,West,Furniture,Table,2158,1211,5
+1407,South,Furniture,Chair,4118,928,7
+1408,West,Office Supplies,Phone,988,1461,12
+1409,West,Office Supplies,Monitor,4855,1327,4
+1410,South,Furniture,Chair,856,160,13
+1411,East,Office Supplies,Desk,1513,393,4
+1412,West,Electronics,Chair,3465,317,4
+1413,South,Electronics,Phone,60,1369,12
+1414,North,Furniture,Table,1918,755,6
+1415,East,Clothing,Chair,4917,901,7
+1416,North,Furniture,Desk,934,384,2
+1417,North,Furniture,Laptop,3614,1041,5
+1418,South,Clothing,Monitor,1439,1374,4
+1419,West,Clothing,Phone,3451,138,14
+1420,South,Clothing,Laptop,4371,1024,13
+1421,South,Electronics,Laptop,874,678,3
+1422,South,Office Supplies,Laptop,2315,1385,7
+1423,South,Electronics,Printer,986,1391,11
+1424,East,Office Supplies,Monitor,2850,526,12
+1425,West,Electronics,Table,2603,95,6
+1426,North,Office Supplies,Notebook,3895,1208,14
+1427,North,Electronics,Monitor,1846,1226,7
+1428,West,Clothing,Printer,103,320,5
+1429,North,Furniture,Notebook,776,1152,13
+1430,West,Electronics,Monitor,2786,1251,6
+1431,North,Office Supplies,Laptop,3220,436,5
+1432,South,Clothing,Phone,1963,1447,14
+1433,North,Electronics,Notebook,1646,123,7
+1434,West,Electronics,Desk,1964,1178,2
+1435,West,Clothing,Desk,2516,312,14
+1436,West,Electronics,Chair,2787,753,11
+1437,West,Furniture,Notebook,899,597,5
+1438,West,Electronics,Phone,2159,996,6
+1439,East,Furniture,Table,52,354,6
+1440,East,Furniture,Printer,4305,823,5
+1441,North,Clothing,Laptop,4119,810,10
+1442,West,Electronics,Chair,4926,1034,7
+1443,North,Clothing,Desk,942,1180,10
+1444,West,Electronics,Printer,2080,1320,8
+1445,West,Electronics,Printer,3210,1086,7
+1446,East,Office Supplies,Laptop,2426,1337,5
+1447,East,Electronics,Table,4725,1102,1
+1448,South,Clothing,Table,1983,370,13
+1449,East,Furniture,Notebook,1430,1253,5
+1450,South,Electronics,Desk,3731,1019,10
+1451,South,Office Supplies,Table,1340,713,2
+1452,South,Clothing,Phone,1690,584,13
+1453,South,Electronics,Table,2732,1194,5
+1454,South,Clothing,Printer,1037,1122,5
+1455,North,Office Supplies,Laptop,1268,697,2
+1456,East,Office Supplies,Phone,1405,790,5
+1457,South,Clothing,Notebook,4315,594,13
+1458,West,Electronics,Desk,4666,598,4
+1459,East,Furniture,Notebook,4185,1192,1
+1460,East,Office Supplies,Printer,1610,498,3
+1461,South,Electronics,Phone,1468,980,1
+1462,North,Electronics,Phone,1004,1357,12
+1463,South,Furniture,Phone,1033,1414,11
+1464,North,Office Supplies,Printer,1024,1135,5
+1465,West,Office Supplies,Printer,4183,503,4
+1466,East,Electronics,Notebook,4022,28,7
+1467,West,Electronics,Chair,963,1487,5
+1468,North,Furniture,Notebook,4599,406,10
+1469,North,Furniture,Desk,86,1010,14
+1470,West,Office Supplies,Laptop,3437,1312,4
+1471,North,Clothing,Phone,1761,860,2
+1472,West,Office Supplies,Chair,3070,1398,4
+1473,East,Electronics,Laptop,845,1364,12
+1474,West,Office Supplies,Chair,4086,1377,2
+1475,East,Clothing,Table,4738,831,8
+1476,West,Furniture,Table,3161,464,3
+1477,North,Clothing,Monitor,1374,734,9
+1478,West,Clothing,Table,367,1098,13
+1479,North,Clothing,Notebook,2446,1109,4
+1480,West,Furniture,Table,2212,720,13
+1481,West,Clothing,Printer,2795,152,6
+1482,South,Clothing,Phone,1641,926,10
+1483,North,Clothing,Notebook,3161,837,5
+1484,South,Electronics,Laptop,3980,614,10
+1485,North,Clothing,Monitor,2046,1450,13
+1486,South,Furniture,Monitor,1362,314,1
+1487,East,Clothing,Monitor,1335,745,9
+1488,West,Clothing,Laptop,4361,300,1
+1489,North,Furniture,Laptop,2433,111,8
+1490,North,Clothing,Laptop,3289,1300,9
+1491,West,Furniture,Laptop,2189,876,9
+1492,North,Clothing,Monitor,1754,977,1
+1493,North,Furniture,Monitor,412,983,2
+1494,South,Clothing,Chair,2654,851,12
+1495,North,Clothing,Notebook,1766,971,13
+1496,East,Electronics,Phone,4501,951,1
+1497,East,Electronics,Table,4336,1036,10
+1498,West,Clothing,Table,3788,94,2
+1499,North,Clothing,Printer,2519,337,10
+1500,West,Office Supplies,Monitor,4845,825,12
